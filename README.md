@@ -16,7 +16,7 @@ I'm a Computer Science and Commerce first-year at the **University of Virginia**
 
 ### About Me
 
-**Currently building:** [Nestor](#), a travel journaling and voice AI app. You speak your daily recap, it becomes a blog post, and the places you visit get pinned on a map for others to explore.<br/>
+**Currently building:** **Nestor**, a travel journaling and voice AI app. You speak your daily recap, it becomes a blog post, and the places you visit get pinned on a map for others to explore.<br/>
 **Currently learning:** Python, React, network management systems, and network infrastructure engineering<br/>
 **Looking to collaborate on:** any project where I can gain experience. Reach out!<br/>
 **Ask me about:** using Claude Code to build tools that speed up your workflow<br/>
