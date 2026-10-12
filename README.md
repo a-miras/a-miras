@@ -7,9 +7,8 @@
 
 I'm a Computer Science and Commerce first-year at the **University of Virginia** who likes building unique apps and doing consulting.
 
-<a href="https://www.linkedin.com/in/AngelMiras"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://leetcode.com/u/YOUR_LEETCODE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://www.linkedin.com/in/angel-miras-923b98323"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/ILIketOcOdE141/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=a-miras&color=fe428e&style=flat-square&label=Profile+views" alt="Profile views" />
 
